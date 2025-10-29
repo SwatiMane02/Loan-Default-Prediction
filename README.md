@@ -66,13 +66,13 @@ This project enables financial institutions to:
 - Random Forest & XGBoost achieved high accuracy and stable performance.  
 - Feature importance shows that **Credit History**, **Loan Amount**, and **Applicant Income** strongly influence default probability.  
 
-## 🖥️ How to Run the Project
+### 🖥️ How to Run the Project
 
-### 🪜 Step 1: Clone the Repository
+## 🪜 Step 1: Clone the Repository
 git clone https://github.com/SwatiMane02/Loan-Default-Prediction.git
 cd Loan-Default-Prediction  
 
-### 🪜 Step 2: Create and Activate Virtual Environment (optional but recommended)
+## 🪜 Step 2: Create and Activate Virtual Environment (optional but recommended)
 # Create environment  
 python -m venv venv  
 
@@ -82,15 +82,15 @@ venv\Scripts\activate
 # On macOS/Linux:  
 source venv/bin/activate  
 
-### 🪜 Step 3: Install Dependencies
+## 🪜 Step 3: Install Dependencies
 pip install -r requirements.txt  
 
-### 🪜 Step 4: Run the Jupyter Notebook
+## 🪜 Step 4: Run the Jupyter Notebook
 jupyter notebook  
 
 Then open the file: 👉 **Loan_Default_Prediction.ipynb**
 
-### 🪜 Step 5: Run All Cells
+## 🪜 Step 5: Run All Cells
 Follow the notebook sequentially to:  
 - 🧹 Preprocess data  
 - 🤖 Train models  
