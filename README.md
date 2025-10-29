@@ -69,7 +69,7 @@ This project enables financial institutions to:
 ## 🖥️ How to Run the Project
 
 ### 🪜 Step 1: Clone the Repository
-git clone https://github.com/prit2107/Loan-Default-Prediction.git  
+git clone https://github.com/SwatiMane02/Loan-Default-Prediction.git
 cd Loan-Default-Prediction  
 
 ### 🪜 Step 2: Create and Activate Virtual Environment (optional but recommended)
